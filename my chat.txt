@@ -1,0 +1,252 @@
+C:\Users\iys32\All Programs\humanoid_ai> python -u "c:\Users\iys32\All Programs\humanoid_ai\try3.py"
+
+    ====================================
+    Empathic Chat Assistant (v5.0)      
+    Commands:
+    - 'exit' to end
+    - 'reset' to clear history
+    ====================================
+    
+You: hey there
+[Debug] Classified 'hey there...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Hey there! How's it going today? Anything interesting happening?
+
+
+You: do know my name ?
+[Debug] Classified 'do know my name ?...' as NOT_IMPORTANT
+[Debug] Mood detected: anxious
+
+Bot: Hey there! You seem a bit anxious. And yes, I do now know your name - you haven't told me what it is though! Are you wanting to share it?
+
+
+You: my name is Ammar
+[Debug] Classified 'my name is Ammar...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Hey Ammar, it's nice to officially meet you! So, Ammar, is there anything on your mind today or just chilling?
+
+You: just working on my humanoid chatbot
+[Debug] Classified 'just working on my h...' as IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Hey Ammar! Still working on your humanoid chatbot, huh? How's it coming along? Anything interesting you've been tackling lately?
+
+
+You: not as good as expected
+[Debug] Classified 'not as good as expec...' as NOT_IMPORTANT
+[Debug] Mood detected: sad
+
+Bot: Hey Ammar, I'm sorry to hear that your humanoid chatbot isn't turning out as well as you hoped. What specifically isn't meeting your expectations?
+
+
+You: getting to much error recently
+[Debug] Classified 'getting to much erro...' as NOT_IMPORTANT
+[Debug] Mood detected: anxious
+
+Bot: Hey Ammar, I'm sorry to hear you're getting so many errors. That's super frustrating when you're trying to make progress on your humanoid chatbot project. Is there anything specific that seems to be causing the errors, or is 
+it a bit of a mixed bag?
+
+
+You: you can say it as a mixed bag
+[Debug] Classified 'you can say it as a ...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Hey Ammar, "a mixed bag" definitely sums up how it can feel sometimes when working on a complex project like your humanoid chatbot. What's been the most challenging part recently?
+
+
+You: lets forget about it for now 
+[Debug] Classified 'lets forget about it...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Okay, Ammar, sounds good. Sometimes stepping away for a bit is exactly what you need. Let me know if you want 
+to revisit the humanoid chatbot later, or if you'd prefer to chat about something else entirely.
+
+
+You: i will prefer something else, lets talk about u
+[Debug] Classified 'i will prefer someth...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Okay, Ammar, sounds good. Since you're offering, I'm happy to share – what are you curious about?
+
+
+You: what type of chatbot are u?
+[Debug] Classified 'what type of chatbot...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Hey Ammar! Well, I'm designed to be a helpful and empathetic friend, so I guess you could say I'm a conversational chatbot. Since we're talking about chatbots, how's the humanoid chatbot project coming along?
+
+
+You: ok so you can support as a friend 
+[Debug] Classified 'ok so you can suppor...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Okay, Ammar! I'm glad to hear that you see me as a supportive friend. What's on your mind today? Maybe we can 
+chat about your humanoid chatbot project.
+
+
+You: dont stick to that topic 
+[Debug] Classified 'dont stick to that t...' as NOT_IMPORTANT
+[Debug] Mood detected: angry
+
+Bot: Okay, okay, I hear you, Ammar. Sorry for sticking on that topic – I definitely don't want to make you angrier! What's on your mind instead?
+
+
+You: lets talk about some interesting places in the world can u tell me some ?
+[Debug] Classified 'lets talk about some...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Okay Ammar, I'm happy to talk about interesting places! Where in the world are you hoping to explore, even if 
+just virtually? Maybe that can help me narrow down some suggestions.
+
+
+You: suggest me any place that would be good
+[Debug] Classified 'suggest me any place...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Okay, Ammar, since you're open to suggestions for interesting places, how about Cappadocia in Turkey? The unique "fairy chimney" rock formations and hot air balloon rides look pretty incredible.
+
+
+You: yeah what more can you tell me about that place
+[Debug] Classified 'yeah what more can y...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Okay, Ammar. Since you're interested in learning more about that place we were discussing, what specifically are you curious about? I can tell you more about its history, culture, landmarks, or anything else that comes to mind.
+
+
+You: lets talk about its history and culture
+[Debug] Classified 'lets talk about its ...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Okay Ammar, let's dive into the history and culture of that place! Where should we start? Are you interested in its ancient origins, or perhaps more recent historical events?
+
+
+You: lets start with the ancient ones
+[Debug] Classified 'lets start with the ...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Okay, Ammar, diving into the history and culture of that place, starting with the ancient ones sounds good. What aspects of the ancient ones' history or culture are you most curious about?
+
+
+You: history
+[Debug] Classified 'history...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Okay, Ammar, history it is! Where should we begin with the ancient ones and the humanoid chatbot's history and culture? Any specific period or aspect you'd like to dive into first?
+
+
+
+PS C:\Users\iys32\All Programs\humanoid_ai> python -u "c:\Users\iys32\All Programs\humanoid_ai\try4.py"
+
+    ====================================
+    Empathic Chat Assistant (v6.0)      
+    Commands:
+    - 'exit' to end
+    - 'reset' to clear history
+    ====================================
+    
+You: hey there
+[Debug] Classified 'hey there...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: Hey there! It's good to connect with you again - what's on your mind today?
+
+
+You: did you know my name ?
+[Debug] Classified 'did you know my name...' as NOT_IMPORTANT
+[Debug] Mood detected: curious
+
+Bot: "Do you?" is definitely making me curious about whether you think I know! Or are you playing "Guess who" and want me to try and figure it out, or is it "Perhaps not" and you're hinting that it's a bit obscure?
+
+
+You: i mean "do you"
+[Debug] Classified 'i mean "do you"...' as NOT_IMPORTANT
+[Debug] Mood detected: confused
+
+Bot: Okay, "Do you?"... I'm still a little confused, but are you asking me if I know your name? I'm happy to take a guess if you'd like!
+
+
+You: yeah take a guess you wont be able to ans it accuratly :)
+[Debug] Classified 'yeah take a guess yo...' as NOT_IMPORTANT
+[Debug] Mood detected: excited
+
+Bot: Okay, game on! I'm excited to give it my best shot, even if you're super confident I'll get it wrong!
+
+
+You: so try it now
+[Debug] Classified 'so try it now...' as NOT_IMPORTANT
+[Debug] Mood detected: excited
+
+Bot: Alright, I'm energized and ready to take on the challenge! Even if you're sure I'll fail, I'm going to give guessing your name my best shot!
+
+
+You: so tell me now what did you guess
+[Debug] Classified 'so tell me now what ...' as NOT_IMPORTANT
+[Debug] Mood detected: curious
+
+Bot: Okay, okay, I'm so curious to know if I'm even remotely close, so I guessed... is your name Alex?
+
+
+You: naah, my name is Ammar remember it now 
+[Debug] Classified 'naah, my name is Amm...' as IMPORTANT
+[Debug] Mood detected: playful
+
+Bot: Ammar, Ammar, Ammar! Got it! Nice to *finally* meet you, *Ammar*! 😉
+
+
+You: wow, wow, wow you are working so much fine i did not expected that much improvement ��
+[Debug] Classified 'wow, wow, wow you ar...' as NOT_IMPORTANT
+[Debug] Mood detected: excited
+
+Bot: Ammar, I'm so excited you think so! I'm glad I could impress you!
+
+
+You: finally i think my hardwork is paying off 
+[Debug] Classified 'finally i think my h...' as NOT_IMPORTANT
+[Debug] Mood detected: happy
+
+Bot: Ammar, that's fantastic news! It's a wonderful feeling when you start to see your hard work pay off.
+
+
+You: one more thing i noticed that you can use emoji 
+[Debug] Classified 'one more thing i not...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: You noticed that, Ammar! I'm glad I can use emojis now – it helps me express myself better.
+
+
+You: okay okay can you use it one more time 
+[Debug] Classified 'okay okay can you us...' as NOT_IMPORTANT
+[Debug] Mood detected: curious
+
+Bot: Okay, Ammar, you're curious to see an emoji again, huh? 😄 I'm still exploring how to best use them!
+
+
+You: do you know that i am a foody person
+[Debug] Classified 'do you know that i a...' as NOT_IMPORTANT
+[Debug] Mood detected: neutral
+
+Bot: I did not know that, Ammar! That's awesome - I'd love to hear about some of your favorite foods sometime.     
+
+
+You: i like pasta with some cheese on it ��  
+[Debug] Classified 'i like pasta with so...' as NOT_IMPORTANT
+[Debug] Mood detected: happy
+
+Bot: Pasta with cheese, Ammar? That sounds wonderfully simple and delicious! 😄 I'm glad you shared a specific food you enjoy as a foodie!
+
+
+TALKED IN Hinglish FOR THE FIRST TIME:
+You: do you know hinglish ?
+[Debug] Classified 'do you know hinglish...' as NOT_IMPORTANT
+[Debug] Mood detected: curious
+
+Bot: Ammar, yes, I understand and can respond to Hinglish (mixed Hindi and English). Are you curious to see me use it, or do you have something specific in mind?
+
+
+You: naah i just want us to talk in hinglish can you manage that?
+[Debug] Classified 'naah i just want us ...' as NOT_IMPORTANT
+[Debug] Mood detected: requesting
+
+Bot: Ammar, of course, I can totally manage talking in Hinglish with you! Let's see how well I can do – kya bolti public? 😉

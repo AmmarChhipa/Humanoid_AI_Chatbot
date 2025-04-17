@@ -1,0 +1,29 @@
+sqlite3 chat_history.db
+
+SELECT * FROM history;
+
+
+def strict_importance_classifier(text):
+    """Strict classification with clear rules"""
+    prompt = f"""Classify this message as IMPORTANT only if it contains:
+    - Job changes (hiring/firing)
+    - Relationship changes (marriage/breakup)
+    - Health issues (diagnosis, accidents)
+    - Financial changes (new house, big purchases)
+    - current projects (work-related or personal)
+    - personal achievements (graduation, awards)
+    - significant life events (birth, death)
+    - personal interests (hobbies, passions)
+    - personal information (address, phone number, name, age)
+    
+    Return ONLY 'IMPORTANT' if it meets criteria, otherwise 'NOT_IMPORTANT'
+    
+    Examples:
+    "I got promoted" → IMPORTANT
+    "My dog died" → IMPORTANT
+    "I am working on a project" → IMPORTANT
+    "This code is buggy" → NOT_IMPORTANT
+    "I'm feeling sad today" → NOT_IMPORTANT     
+
+
+    You're an empathetic friend. Respond the message, considering Guidelines:   
