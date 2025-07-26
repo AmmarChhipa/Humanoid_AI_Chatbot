@@ -1,9 +1,0 @@
-def check_string(s1,s2):
-    return s1 in s2 or s2 in s1
-s1 = input("Enter first string: ")
-s2 = input("Enter second string: ")
-if check_string(s1,s2):
-    print("True")
-else:
-    print("False")
-    
